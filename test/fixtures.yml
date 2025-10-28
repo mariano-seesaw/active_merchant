@@ -451,6 +451,10 @@ flo2cash_simple:
   password: ANOTHERCREDENTIAL
   account_id: ANOTHERCREDENTIAL
 
+# Working credentials, no need to replace
+flywire:
+  api_key: SOMEAPIKEY
+
 forte:
   location_id: "176008"
   account_id: "300111"
