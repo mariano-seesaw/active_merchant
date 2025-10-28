@@ -1310,6 +1310,9 @@ redsys_sha256:
   secret_key: SECRET KEY
   signature_algorithm: 'sha256'
 
+revolut:
+  api_key: SOMEAPIKEY
+
 # Working credentials, no need to replace
 s5:
   mode: CONNECTOR_TEST
